@@ -1,0 +1,136 @@
+.whole-profile1{
+		width: 353px;
+		height: auto;
+		display:block;
+		float: left;
+		margin: 20px;
+	}
+	.img-profile1{
+		width: 150px;
+		height: 150px;
+		background-image: url("pics/1.jpg");
+		background-size: cover;
+		background-position: center center;
+		border-radius: 80px;
+		position: relative;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		border-left: 17px solid #3CA2D2;
+		border-right: 17px solid #3CA2D2;
+	}		
+	.detail-profile1{
+		height: auto;
+		display: block;
+		background-color: rgb(86, 239, 203);
+		margin-top: -80px;
+		border: 9px solid rgb(48, 171, 228);
+		padding: 10px;
+		padding-bottom: 30px;
+		box-shadow: 5px 5px #000;
+	}
+	.detail-profile1 h2{
+		display: block;
+		padding-top: 68px;
+		text-align: center;
+		font-family: Bell MT;
+	}
+	.detail-profile1 p{
+		width: 260px;
+		height: auto;
+		border-left: 5px solid rgb(24, 112, 153);
+		margin-left: auto;
+		margin-right: auto;
+		padding: 10px;
+		background: transparent linear-gradient(to right, rgb(60, 162, 210), rgb(185, 211, 237), rgb(60, 162, 210)) repeat scroll 0% 0%;
+		border-right: 5px solid rgb(24, 112, 153);
+		font-family: Bodoni MT;
+		text-align: center;
+	}
+	.phone-box{
+		width: 222px;
+		display: block;
+		height: auto;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.phone-box1{
+		width: 85px;
+		height: 30px;
+		font-family: Arno Pro Smbd Caption;
+		font-size: 22px;
+		display: block;
+		float: left;
+		
+	}
+	.phone-box2{
+		
+		width: 224px;
+		height: 30px;
+		font-family: Arno Pro Smbd Caption;
+		font-size: 22px;
+	}
+	.profilewholebox-a{
+		width: 816px;
+margin: 20px auto;
+	}
+
+
+	.wells{
+		width: 90% !important;
+margin-left: auto;
+margin-right: auto;
+  padding: 19px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  background-color: #D9EDF7;
+  border: 1px solid #B8E6FC;
+  border-radius: 4px;
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05) inset;
+}
+.header_about{
+  width: 200px;
+  padding: 5px 2px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  background-color: rgba(242,222,222, 0.7);
+  border-left: 5px solid #F99F9F;
+  border-right: 5px solid #F99F9F;
+}
+.header_about p{
+  text-align: center;
+  font-size: 27px;
+  font-weight: bold;
+  text-shadow: 1px 2px 3px white;
+}
+
+.image_about{
+  background-image: url(../pics/images-1.jpeg);
+  background-size: contain;
+background-repeat: no-repeat;
+background-position: center;
+  position: relative;
+  width: 100%;
+  height: 400px;
+}
+
+.contact_about {
+    text-align: center !important;
+    max-width: 500px;
+    padding: 14px;
+    border-left: 3px solid #F69899;
+    border-right: 3px solid #F69899;
+    margin: 0px auto;
+}
+.about-detail-text {
+    max-width: 858px;
+    height: auto;
+    margin: 10px auto 0px auto;
+    text-align: justify;
+    padding: 20px;
+    border-left: 3px solid rgb(246, 152, 153);
+    border-right: 3px solid rgb(246, 152, 153);
+    border-top: 1px solid rgb(246, 152, 153);
+}
