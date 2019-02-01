@@ -1,0 +1,214 @@
+.fool_subjects{
+  width: 30%;
+  padding: 5px 2px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  background-color: #56EFCB;
+  border-left: 5px solid #05A3B6;
+  border-right: 5px solid #05A3B6;
+}
+.fool_subjects p{
+  text-align: center;
+  font-size: 27px;
+  font-weight: bold;
+  text-shadow: 1px 2px 3px white;
+}
+.whole_sujects{
+      width: 323px;
+      height: 275px;
+      margin-left: 10px;
+      margin-right: 10px;
+      display: block;
+      background-color: #56EFCB;
+      box-shadow: 5px 5px black;
+      margin-top: 45px; 
+      display: block;
+      float: left;  
+    }
+    .arrow{
+      width: auto;
+      height: auto;
+      display: block;
+    }
+    .header_subjectss{
+      height: 40px;
+border-left: 5px solid #00F;
+transform: skew(50deg, 0deg);
+background-color: #00A5FF;
+width: 265px;
+margin-left: 24px;
+    }
+    .header_subjectsss{
+      height: 40px;
+border-left: 5px solid #00F;
+transform: skew(-50deg, 0deg);
+background-color: #00A5FF;
+width: 265px;
+margin-left: 24px;
+margin-top: -1px;
+box-shadow: 6px 4px black;
+
+    }
+    .text_header{
+      font-size: 20px;
+padding-left: 56px;
+margin-top: -54px;
+position: relative;
+color: white;
+text-shadow: 2px 2px 2px black;
+    }
+
+    .detail_subjects{
+      width: 325px;
+      height: 160px;
+      padding: 10px;
+      padding-bottom: 0px !important;
+      display: block;
+     
+      padding-top: 20px !important;
+    }
+    .detail_subjects p{
+        text-align: center;
+        font-weight: bold;
+        font-size: 16px;
+    }
+    .subjects-wholes{
+      width: 100%;
+      height: 1672px;
+    }
+    .innersubjects{
+      width: 686px;
+      height: auto;
+      margin-left: auto;
+margin-right: auto;
+      display: block;
+      border-top: 1px solid #3E80F3;
+    }
+    .innersubjects1{
+      width: 340px;
+      height: auto;
+      margin-left: auto;
+margin-right: auto;
+      display: block;
+    }
+
+
+    .button_read_M{
+      width: 305px;
+height: 50px;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 0px;
+display: block;
+    }
+    .rebotton-for-reg{
+      background-color: #EF3939 !important;
+width: 150px;
+float: left;
+margin-right: 5px;
+text-align: center;
+font-size: 17px;
+padding-top: 6px;
+color: white;
+height: 40px;
+display: block;
+    }
+   .rebotton_for-more {
+      background-color: #00A5FF !important;
+width: 150px;
+height: 40px;
+: center;
+font-size: 17px;
+padding-top: 6px;
+color: #FFF;
+float: left;
+text-align: center;
+    }
+    .rebotton_for-more span{
+      padding-left: 10px;
+    }
+     .rebotton-for-reg span{
+      padding-left: 10px;
+    }
+
+    .subjects-header-up{
+      width: 200px;
+  padding: 5px 2px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  background-color: #87C4E0;
+  border-left: 5px solid #3E80F3;
+  border-right: 5px solid #3E80F3;
+    }
+    .subjects-header-up p{
+      text-align: center;
+font-size: 27px;
+font-weight: bold;
+text-shadow: 1px 2px 3px #FFF;
+    }
+
+  /*media*/
+  @media (max-width: 760px){
+    .innersubjects{
+      width: 340px !important;
+    }
+    .subjects-wholes {
+    width: 100%;
+    height: 2946px;
+}
+  }  
+  /*model*/
+  .modal-title {
+    
+    text-align: center;
+    font-size: 31px;
+}
+.subjects-images-one{
+  max-width: 407px;
+height: 213px;
+background-color: red;
+margin-left: auto;
+margin-right: auto;
+}
+.prizeformycenter{
+  max-width: 407px;
+height: 30px;
+background-color: #E4E4E4;
+padding-top: 4px;
+padding-left: 30px;
+margin-left: auto;
+margin-right: auto;
+}
+.photoformycenter{
+  max-width: 407px;
+height: 30px;
+background-color: #F0F0F0;
+padding-top: 4px;
+padding-left: 30px;
+margin-left: auto;
+margin-right: auto;
+}
+.lengthformycenter{
+  max-width: 407px;
+height: 30px;
+background-color: #E4E4E4;
+padding-top: 4px;
+padding-left: 30px;
+margin-left: auto;
+margin-right: auto;
+}
+.detailforcenter{
+  max-width: 407px;
+height: auto;
+background-color: #F0F0F0;
+padding: 11px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+font-size: 20px;
+color: #E97777;
+}
